@@ -1,6 +1,6 @@
 {
   "name": "RTP-SLOT-HARIAN",
-  "main": "./gundol/atom/250722/slot-pulsa-tanpa-potongan",
+  "main": "lib/RTP-slot",
   "version": "0.0.0",
   "description": "BOSSWIN168: RTP Live Tertinggi dan Slot Gacor Terlengkap Hari Ini  ",
   "keywords": [
@@ -16,7 +16,7 @@
   "activationCommands": {
     "atom-workspace": "slot-deposit-pulsa-tanpa-potongan:toggle"
   },
-  "repository": "https://github.com/ojosh77/RTP-slot.git",
+  "repository": "https://github.com/ojosh77/RTP-slot",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
