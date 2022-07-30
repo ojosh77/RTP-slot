@@ -3,7 +3,7 @@
   "main": "lib/RTP-slot",
   "version": "0.0.0",
   "description": "BOSSWIN168: RTP Live Tertinggi dan Slot Gacor Terlengkap Hari Ini  ",
-  "keywords": [
+  "keywords": {
 "rtp live",
  "rtp slot",
   "info slot",
@@ -12,7 +12,7 @@
    "info slot gacor",
     "bocoran slot hari ini", 
     "rtp slot tertinggi",
-  ],
+  },
   "activationCommands": {
     "atom-workspace": "slot-deposit-pulsa-tanpa-potongan:toggle"
   },
